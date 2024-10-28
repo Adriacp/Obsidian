@@ -1,0 +1,2 @@
+# Obsidian
+Repositorio de Obsidian
