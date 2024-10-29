@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA/Primer Parcial/1. Agentes inteligentes/Agentes y su entorno.md",
+                "file": "LPP/Apuntes teoría.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agentes y su entorno"
+              "title": "Apuntes teoría"
             }
           }
         ]
@@ -159,5 +159,10 @@
     }
   },
   "active": "095b888cadecc497",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "IA/Primer Parcial/1. Agentes inteligentes/Agentes y su entorno.md",
+    "LPP/Apuntes teoría.md",
+    "Sin nombre",
+    "LPP"
+  ]
 }
