@@ -1,4 +1,4 @@
-## **Herencia** 
+
 
 ```ruby
 require 'pry'
