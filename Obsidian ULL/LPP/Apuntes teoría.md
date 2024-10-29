@@ -48,6 +48,7 @@ class Point
 	ORIGIN = Point.new(0, 0) 
 end
 ```
+
 Point.superclass //Consigo la clase padre del objeto
 
 ``` ruby
