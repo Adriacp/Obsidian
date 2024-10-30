@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a82130b90c9d7c22",
@@ -161,22 +160,22 @@
   },
   "active": "90dda8112454767e",
   "lastOpenFiles": [
+    "IA/Primer Parcial/3. Búsquedas no informadas/Búsqueda de costo uniforme.md",
+    "IA/Primer Parcial/3. Búsquedas no informadas/Búsqueda primero en anchura.md",
+    "IA/Primer Parcial/1. Agentes inteligentes/La naturaleza del entorno.md",
+    "IA/Primer Parcial/1. Agentes inteligentes/Agentes y su entorno.md",
+    "IA/Primer Parcial/1. Agentes inteligentes/Estructura de los Agentes.md",
+    "IA/Primer Parcial/1. Agentes inteligentes/Racionalidad.md",
+    "IA/Primer Parcial/1. Agentes inteligentes/Pasted image 20241029114624.png",
     "IA/Primer Parcial/3. Búsquedas no informadas/Búsqueda primero en profundidad con profundidad iterativa.md",
     "IA/Primer Parcial/3. Búsquedas no informadas/Búsqueda primero en profundidad.md",
-    "IA/Primer Parcial/3. Búsquedas no informadas/Pasted image 20241029190751.png",
-    "IA/Primer Parcial/1. Agentes inteligentes/Pasted image 20241029114624.png",
-    "IA/Primer Parcial/3. Búsquedas no informadas/animated_bfs.gif",
-    "IA/Primer Parcial/3. Búsquedas no informadas/Pasted image 20241029190610.png",
-    "IA/Primer Parcial/3. Búsquedas no informadas/Pasted image 20241029190636.png",
-    "IA/Primer Parcial/3. Búsquedas no informadas/Búsqueda primero en anchura.md",
+    "Pasted image 20241029190751.png",
+    "animated_bfs.gif",
+    "Pasted image 20241029190610.png",
+    "Pasted image 20241029190636.png",
     "IA/Primer Parcial/3. Búsquedas no informadas/Búsqueda de profundidad limitada.md",
-    "IA/Primer Parcial/3. Búsquedas no informadas/Búsqueda de costo uniforme.md",
-    "IA/Primer Parcial/1. Agentes inteligentes/La naturaleza del entorno.md",
     "IA/Primer Parcial/Índice General.md",
-    "IA/Primer Parcial/1. Agentes inteligentes/Racionalidad.md",
-    "IA/Primer Parcial/1. Agentes inteligentes/Agentes y su entorno.md",
     "LPP/Herencia.md",
-    "IA/Primer Parcial/1. Agentes inteligentes/Estructura de los Agentes.md",
     "Sin nombre",
     "LPP"
   ]
